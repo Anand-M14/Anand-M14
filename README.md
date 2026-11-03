@@ -1,162 +1,180 @@
-# 👋 Hey, I'm Anand Murugan U
-
-### Full Stack Developer | Backend Development | API Integrations | AI & Automation
+![Header](https://capsule-render.vercel.app/api?type=venom&height=260&text=ANAND%20MURUGAN%20U&fontSize=48&fontColor=ffffff&color=0:101522,50:243B67,100:6C3CE8&stroke=69D7FF&strokeWidth=2&desc=FULL%20STACK%20DEVELOPER%20%7C%20BACKEND%20%7C%20AI%20AUTOMATION&descSize=16&descAlignY=72)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E8D2B5&center=true&vCenter=true&width=700&lines=Building+Practical+Software+Solutions;Exploring+Backend+%26+API+Development;Connecting+Applications+Through+Integrations;Learning+AI+Agents+%26+Automation" alt="Typing SVG" />
+  <a href="https://github.com/Anand-M14"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=69D7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile;Backend+Development+%7C+API+Integration;Exploring+MCP+%26+AI+Agents;Building+Ideas+into+Applications" /></a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/anand-murugan-u-">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-E8D2B5?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
-  <a href="mailto:anandmuruganu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-590907?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://github.com/Anand-M14"><img src="https://img.shields.io/badge/GitHub-Anand--M14-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com/in/anand-murugan-u-"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:anandmuruganu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+<h2 align="center">✦ ABOUT ME ✦</h2>
 
-I'm a **BCA graduate** and Full Stack Development Intern at **Cloud Space Design**, interested in building useful, scalable, and efficient software applications.
+<p align="center">
+  I'm <b>Anand Murugan U</b>, a BCA graduate and Full Stack Development Intern at <b>Cloud Space Design</b>.<br/>
+  I enjoy building applications, developing backend APIs, connecting platforms and exploring AI-powered automation.
+</p>
 
-My focus areas include backend development, REST API integration, database management, CRM migration workflows, and AI-powered automation.
-
-- 🔭 Working on full-stack application development and API integrations.
-- 🌱 Learning and exploring MCP, AI agents, and workflow automation.
-- 🔗 Interested in connecting platforms through reliable API integrations.
-- 🛠️ Enjoy solving problems, debugging, and learning new technologies.
-- 🎯 Goal: Grow as a software developer and build impactful applications.
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<h3>⚡ WHAT I DO</h3>
+Backend Development<br/>
+REST API Integration<br/>
+Database Management<br/>
+CRM Migration Workflows
+</td>
+<td align="center" width="50%">
+<h3>🚀 WHAT I EXPLORE</h3>
+Model Context Protocol<br/>
+AI Agent Workflows<br/>
+OAuth & Authentication<br/>
+Workflow Automation
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚙️ Tech Stack
+<h2 align="center">🛠️ TECHNOLOGY UNIVERSE</h2>
 
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<h3 align="center">Languages</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
 </p>
 
-### Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<h3 align="center">Frontend & Backend</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,nestjs" />
 </p>
 
-### Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<h3 align="center">Database & Tools</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,git,github,gitlab,postman" />
 </p>
 
-### Authentication, Integration & Automation
-<p>
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-590907?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-</p>
-
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<p align="center">
+<img src="https://img.shields.io/badge/REST%20API-Integration-1677FF?style=flat-square" />
+<img src="https://img.shields.io/badge/OAuth-Authentication-4285F4?style=flat-square" />
+<img src="https://img.shields.io/badge/MCP-AI%20Integration-8A5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat-square" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
-### 01. Zoho CRM → Pipedrive Migration with MCP Integration
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech:** NestJS · TypeScript · PostgreSQL · OAuth · MCP
+<h3>01. 🔗 Zoho CRM → Pipedrive</h3>
 
-- Worked on API-based CRM integration and migration workflows between Zoho CRM and Pipedrive.
-- Worked with Contacts, Leads, Accounts, and Deals.
-- Implemented field mapping concepts to maintain data consistency between platforms.
-- Worked on OAuth authentication, duplicate handling, and API communication.
-- Explored MCP integration for connecting CRM operations with AI agents.
+**CRM Migration with MCP Integration**
 
-### 02. Vehicle Service Management System
+- API-based CRM integration.
+- Contacts, Leads, Accounts and Deals.
+- OAuth authentication and field mapping.
+- Duplicate handling and migration workflows.
+- Exploring MCP-powered AI interaction.
 
-**Tech:** React.js · Node.js · Express.js · Supabase
+**Stack:** NestJS · TypeScript · PostgreSQL · MCP
 
-- Developed a vehicle service management application for customer and vehicle information.
-- Worked on service booking and service record management.
-- Focused on organizing service workflows and improving information accessibility.
+</td>
+<td width="50%" valign="top">
 
-### 03. E-Commerce Website
+<h3>02. 🚘 Vehicle Service Management</h3>
 
-**Tech:** React.js · JavaScript · HTML · CSS
+**Vehicle Service Management System**
 
-- Developed an e-commerce web application for browsing and presenting products.
-- Worked on responsive user interface design and navigation.
-- Focused on smooth user interaction and organized product information.
+- Customer and vehicle management.
+- Service booking workflows.
+- Service record management.
+- Organized service information.
+
+**Stack:** React · Node.js · Express · Supabase
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>03. 🛒 E-Commerce Website</h3>
+
+**Online Shopping Application**
+
+- Product browsing and presentation.
+- Responsive user interface.
+- Organized product information.
+- User-friendly navigation.
+
+**Stack:** React · JavaScript · HTML · CSS
+
+</td>
+<td width="50%" valign="top">
+
+<h3>04. 💡 Current Learning</h3>
+
+**AI & Backend Engineering**
+
+- MCP servers and clients.
+- AI agent integrations.
+- Workflow automation using n8n.
+- Backend API development.
+
+**Focus:** Learn · Build · Improve
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 Experience
+<h2 align="center">💼 EXPERIENCE & EDUCATION</h2>
 
-**Full Stack Development Intern**  
+<p align="center">
+<b>Full Stack Development Intern</b><br/>
 Cloud Space Design (Startup)
-
-- Practical training in full-stack development.
-- Hands-on exposure to frontend and backend technologies.
-- Worked with REST API development, database management, and application integration.
-- Practiced debugging and real-world development workflows.
-
----
-
-## 🎓 Education
-
-**Bachelor of Computer Applications (BCA)**  
-Ambai Arts College  
-Affiliated to Manonmaniam Sundaranar University
-
----
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E8D2B5&icon_color=A5A79B&text_color=FFFFFF" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E8D2B5&text_color=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=E8D2B5&fire=590907&currStreakLabel=E8D2B5" />
+<b>Bachelor of Computer Applications (BCA)</b><br/>
+Ambai Arts College
 </p>
 
 ---
 
-## 🤝 Let's Connect
-
-I'm interested in software development opportunities, collaboration, and learning from other developers.
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/anand-murugan-u-">LinkedIn</a> •
-  <a href="mailto:anandmuruganu@gmail.com">Email</a> •
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anand-M14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=101522&title_color=69D7FF&icon_color=BB86FC&text_color=E5E7EB" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand-M14&layout=compact&theme=tokyonight&hide_border=true&bg_color=101522&title_color=69D7FF&text_color=E5E7EB" />
 </p>
 
 <p align="center">
-  <i>"Learn continuously. Build consistently. Improve every day."</i>
+<img width="70%" src="https://streak-stats.demolab.com?user=Anand-M14&theme=tokyonight&hide_border=true&background=101522&ring=69D7FF&fire=BB86FC&currStreakLabel=69D7FF" />
+</p>
+
+---
+
+<h2 align="center">🤝 LET'S CONNECT</h2>
+
+<p align="center">
+I'm open to learning, collaboration and software development opportunities.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=590907&height=100&section=footer" />
+<a href="https://github.com/Anand-M14">GitHub</a> •
+<a href="https://linkedin.com/in/anand-murugan-u-">LinkedIn</a> •
+<a href="mailto:anandmuruganu@gmail.com">Email</a>
+</p>
+
+<h3 align="center">"Turning curiosity into code, and ideas into solutions."</h3>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3CE8,50:243B67,100:101522&height=130&section=footer" />
 </p>
